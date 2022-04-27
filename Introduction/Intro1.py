@@ -14,4 +14,3 @@ def factorial(n):
 
 
 factorial(int(input("Enter any positive integer or zero:\n")))
-
